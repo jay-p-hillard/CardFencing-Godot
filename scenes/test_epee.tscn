@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://d1dw7aa12pm4v"]
+
+[ext_resource type="Script" uid="uid://dm0dd18ivk840" path="res://scripts/match/test_epee_game.gd" id="1_rb8ut"]
+
+[node name="Test Epee" type="Node" unique_id=424537064]
+script = ExtResource("1_rb8ut")
