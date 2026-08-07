@@ -2,7 +2,7 @@
 
 🚧 **Work in progress** — rule sets are fully designed and demoed in text form; UI and full gameplay in progress.
 
-> Note: this is the in-development Godot version, aiming for a complete playable game across five modes with UI and (eventually) online play. For a finished, compact proof of concept of the same core mechanics, see the [Java version](../CardFencing-Java).
+> Note: this is the in-development Godot version, aiming for a complete playable game across five modes with UI and (eventually) online play. For a finished, compact proof of concept of the same core mechanics, see the [Java version](https://github.com/jay-p-hillard/CardFencing-Java).
 
 A turn-based card strategy game simulating a fencing bout, with five planned game modes:
 
@@ -16,7 +16,7 @@ A turn-based card strategy game simulating a fencing bout, with five planned gam
 
 ## Origin
 
-The rule set here came out of working through the resolution mechanics for [Grid Fencing](../GridFencing-Godot), the real-time joystick-based version of the same idea. While testing that logic, I used a physical deck of playing cards to represent the attack/defense grid — and realized the result was a fully playable turn-based game on its own. The additional scoring and play rules (right-of-way, double touches, weapon-specific mechanics) came from my own fencing background.
+The rule set here came out of working through the resolution mechanics for [Grid Fencing](https://github.com/jay-p-hillard/GridFencing-Godot), the real-time joystick-based version of the same idea. While testing that logic, I used a physical deck of playing cards to represent the attack/defense grid — and realized the result was a fully playable turn-based game on its own. The additional scoring and play rules (right-of-way, double touches, weapon-specific mechanics) came from my own fencing background.
 
 ## What's built so far
 
